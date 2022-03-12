@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1wRE1r8Zcpj/skUML/KB19kWtvYP7qSun307xgrEb4k=",
+  "Source": "EntityFrameworkCoreTest",
+  "BasePath": "_content/EntityFrameworkCoreTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

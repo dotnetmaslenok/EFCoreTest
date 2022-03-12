@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\EntityFrameworkCoreTest\EntityFrameworkCoreTest\obj\Debug\net5.0\EntityFrameworkCoreTest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\EntityFrameworkCoreTest\EntityFrameworkCoreTest\obj\Debug\net5.0\EntityFrameworkCoreTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\EntityFrameworkCoreTest\EntityFrameworkCoreTest\obj\Debug\net5.0\EntityFrameworkCoreTest.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\EntityFrameworkCoreTest\EntityFrameworkCoreTest\obj\Debug\net5.0\EntityFrameworkCoreTest.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EntityFrameworkCoreTest\EntityFrameworkCoreTest\obj\Debug\net5.0\EntityFrameworkCoreTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\EntityFrameworkCoreTest\EntityFrameworkCoreTest\obj\Debug\net5.0\EntityFrameworkCoreTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\EntityFrameworkCoreTest\EntityFrameworkCoreTest\obj\Debug\net5.0\EntityFrameworkCoreTest.MvcApplicationPartsAssemblyInfo.cache
